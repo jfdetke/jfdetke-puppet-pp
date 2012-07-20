@@ -1,3 +1,5 @@
+# #
+
   @user { "jbond":
     ensure => "present",
     uid => "1007",
