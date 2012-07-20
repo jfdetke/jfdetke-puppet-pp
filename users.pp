@@ -16,7 +16,7 @@
     ensure => "present",
     uid => "1008",
     gid => "1008",
-    home => "/home/je",
+    home => "/home/jedetke",
     # this next line creates the home dir
     managehome => true,            
     }
